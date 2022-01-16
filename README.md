@@ -64,6 +64,8 @@ So overall it removes the need of using core JavaScript or some other libraries 
 
 ---
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-5.png" />
+
 Material UI standardised the way we create custom-designed HTML components
 
 - You can quickly create a mobile app-like user interface.
