@@ -16,7 +16,7 @@ Portfolios include information about who you are and examples of your work and a
 4. List of Accomplishments
 5. Samples of Your Work
 
-<img align="left" alt="Visual Studio Code" width="820px" height="580px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
+<img align="left" alt="Visual Studio Code" width="820px" height="630px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
 
 # Importance
 
@@ -87,7 +87,7 @@ List of Components:
 
 Material card is part of material UI. It is basically a component that helps you to create Card like UI. It is following parts:
 
-Header
+- Header
 - Title
 - Subtitle
 - Content
