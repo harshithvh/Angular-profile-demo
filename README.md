@@ -16,7 +16,7 @@ Portfolios include information about who you are and examples of your work and a
 4. List of Accomplishments
 5. Samples of Your Work
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
+<img align="left" alt="Visual Studio Code" width="820px" height="auto" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
 
 # Importance
 
@@ -25,6 +25,7 @@ Portfolios include information about who you are and examples of your work and a
 1. The audience to your projects and work do not have an understanding of programming. 
 2. During the recruitment process, the person to first look at your profile is an HR(a person who cannot understand the back-end).
 
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-4.png" />
 <img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-2.png" />
 
 # Problems faced with trsditional method
