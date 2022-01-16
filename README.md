@@ -16,7 +16,7 @@ Portfolios include information about who you are and examples of your work and a
 4. List of Accomplishments
 5. Samples of Your Work
 
-<img align="left" alt="Visual Studio Code" width="820px" height="480px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
+<img align="left" alt="Visual Studio Code" width="820px" height="580px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
 
 # Importance
 
@@ -84,6 +84,7 @@ Modules are a great way to organize an application and extend it with capabiliti
 
 List of Components:
 1. Material Cards
+
 Material card is part of material UI. It is basically a component that helps you to create Card like UI. It is following parts:
 
 Header
@@ -94,10 +95,13 @@ Header
 - Footer
 
 2. Material Chips
+
 Chips are compact elements that represent an input, attribute, or action. They allow users to enter information, make selections, filter content, or trigger actions.
 
 3. Material Lists
+
 Lists are continuous, vertical indexes of text or images. Lists are a continuous group of text or images. They are composed of items containing primary and supplemental actions, which are represented by icons and text.
 
 4. Material Icons
+
 System icons are designed to be simple, modern, friendly, and sometimes quirky. Each icon is reduced to its minimal form, expressing essential characteristics.
