@@ -119,4 +119,4 @@ System icons are designed to be simple, modern, friendly, and sometimes quirky. 
 5. Install: ng add @angular/material
 6. try some component by importing module in app.module.ts and add template in app.component.html
 
-![](ss-1.jpeg)
+![](ss.jpeg)
