@@ -8,6 +8,8 @@ Web Development
 
 A portfolio goes beyond a resume and a cover letter to show a prospective employer your work experience, skills, accomplishments, and more.
 
+<img align="left" alt="Visual Studio Code" width="820px" height="630px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
+
 Portfolios include information about who you are and examples of your work and achievements. A traditional resume is included in a career portfolio along with written and/or visual information that highlights what you have to offer. A career portfolio will also set you apart. Despite the obvious advantages of having a portfolio, few employers see them during interviews.
 
 1. Resume
@@ -15,8 +17,6 @@ Portfolios include information about who you are and examples of your work and a
 3. Marketable Qualities
 4. List of Accomplishments
 5. Samples of Your Work
-
-<img align="left" alt="Visual Studio Code" width="820px" height="630px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
 
 # Importance
 
@@ -107,3 +107,15 @@ Lists are continuous, vertical indexes of text or images. Lists are a continuous
 4. Material Icons
 
 System icons are designed to be simple, modern, friendly, and sometimes quirky. Each icon is reduced to its minimal form, expressing essential characteristics.
+
+# Procedure
+
+---
+
+1. npm install -g @angular/cli
+2. Create new project: ng new angular-material-profile-demo
+3. Start the server: ng serve
+4. replace all content in src/app/app.component.html with 'Hello Angular'
+5. Install: ng add @angular/material
+6. try some component by importing module in app.module.ts and add template in app.component.html
+
