@@ -16,7 +16,7 @@ Portfolios include information about who you are and examples of your work and a
 4. List of Accomplishments
 5. Samples of Your Work
 
-<img align="left" alt="Visual Studio Code" width="820px" height="auto" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
+<img align="left" alt="Visual Studio Code" width="820px" height="480px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-1.png" />
 
 # Importance
 
@@ -49,7 +49,7 @@ Angular is a development platform, built on TypeScript. As a platform, Angular i
 2. A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more
 3. A suite of developer tools to help you develop, build, test, and update your code
 
-<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-2.png" />
+<img align="left" alt="Visual Studio Code" width="820px" src="https://github.com/harshithvh/Angular-profile-demo/blob/main/images/img-3.png" />
 
 A front-end framework like angular solves all the problems.
 
